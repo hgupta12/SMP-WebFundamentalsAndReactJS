@@ -1,4 +1,7 @@
-## Week 1 - HTML CSS:
+# IEEE SMP - Web Fundamentals and ReactJS
+
+## Week 1 - Git, HTML CSS:
+- [ ] [Git and Github](https://youtu.be/apGV9Kg7ics)
 - [ ] [Set up VS Code for web development](https://www.freecodecamp.org/news/how-to-set-up-vs-code-for-web-development/)
 - [ ] Watch [HTML Overview Video](https://youtu.be/UB1O30fR-EE)
 - [ ] Watch [CSS Video](https://youtu.be/OXGznpKZ_sA)
@@ -17,7 +20,7 @@
 ## Week 4 - ReactJS:
 - [ ] Watch the [Intro to React Video](https://youtu.be/Dorf8i6lCuk)
 - [ ] Watch the [React Hooks Playlist](https://youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h)
-- [ ] Watch the [Final Project Ideas Video](https://youtu.be/6j9tnGMbm2c)
+- [ ] Watch the [Final Project Ideas Video](https://youtu.be/6j9tnGMbm2c) and choose a package.
 
 ## Week 5 - React Router and Final Project:
 - [ ] Watch the [React Router Video](https://youtu.be/Ul3y1LXxzdU)
